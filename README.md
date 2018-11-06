@@ -1,1 +1,3 @@
 # gitbuddy
+
+hello buddy
